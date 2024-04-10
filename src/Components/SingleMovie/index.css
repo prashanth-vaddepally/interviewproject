@@ -1,0 +1,18 @@
+/* SingleMovieDetailPage.css */
+.single-movie-detail-page {
+  padding: 1rem;
+}
+
+.single-movie-detail-page img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+}
+
+.single-movie-detail-page h1 {
+  margin-bottom: 0.5rem;
+}
+
+.single-movie-detail-page p {
+  margin-bottom: 1rem;
+}
